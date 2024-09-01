@@ -1,0 +1,8 @@
+      // "https://www.swiggy.com/dapi/restaurants/list/v5?lat=26.95250&lng=75.71050&is-seo-homepage-enabled=true&page_type=DESKTOP_WEB_LISTING"
+        // "https://www.swiggy.com/dapi/restaurants/list/update"
+
+How to load path in the Main App Components;
+      -->>  outlet is a component  in react-router-dom
+
+// TO Make load the data we will call api by hook it is useEffecthook();
+meanwhile creating a api call just keep useState(null);
